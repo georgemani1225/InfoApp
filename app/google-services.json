@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264376701706",
+    "project_id": "infoapp-14dbc",
+    "storage_bucket": "infoapp-14dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264376701706:android:a624135e21cfae168ba0f3",
+        "android_client_info": {
+          "package_name": "com.gapps.infoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264376701706-6efotasgio7jqqrq5jt3une3i3k1oe90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDox33pQwJxZOZr1i0_an9uAw0EPYXKd2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264376701706-6efotasgio7jqqrq5jt3une3i3k1oe90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
